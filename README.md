@@ -26,7 +26,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+### Lab 1
+1. The level of measurement for Temperatue is interval because Temperature can be counted in intervals above and below 0
 ![Image](levels_measurement.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
